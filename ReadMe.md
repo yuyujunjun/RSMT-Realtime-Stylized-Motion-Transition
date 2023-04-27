@@ -130,4 +130,14 @@
   python train_transitionNet.py --predict_phase --pretrained --version YOUR_VERSION --epoch YOUR_EPOCH
   ```
 
-  If you use this code in any context, please cite the following paper: **insert paper citation**.
+  ### Citation
+
+  If you use RSMT in any context, please cite the following paper:
+
+  ```
+  Xiangjun Tang, Linjun Wu, He Wang, Bo Hu, Xu Gong, Yuchen Liao, Songnan Li, Qilong Kou, and Xiaogang Jin. 2023. RSMT: Real-time Stylized Motion Transition for Characters. In Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Proceedings (SIGGRAPH ’23 Conference Proceedings), August 6–10, 2023, Los Angeles, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3588432.3591514.
+  ```
+
+  ## Home Page
+
+  https://yuyujunjun.github.io/publications/2023-08-06RSMT/
