@@ -422,7 +422,7 @@ class PAE_AI4Animation(nn.Module):
         tv = torch.empty_like(v)
         for i in range(self.embedding_channels):
             tv[:,i,:] = self.bn[i](v[:,i,:])
-        p = self.atan2(tv[:,:,1],tv[:,:,0])
+        p = self.atan2(tv[:,:,1],tv[:,:,0])/self.tpi
 
         #################### the original code ####################
         # p = torch.empty((y.shape[0], self.embedding_channels), dtype=torch.float32, device=y.device)
