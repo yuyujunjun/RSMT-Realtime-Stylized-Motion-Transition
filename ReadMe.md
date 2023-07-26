@@ -86,7 +86,7 @@
   python process_dataset.py --train_sampler_model
   ```
 
-  Then train the sampler:
+  Then train the sampler, YOUR_MANIFOLD_MODEL should be repalced by `m_save_model_YOUR_EPOCH`:
 
   ```bash
   python train_transitionNet.py --moe_model YOUR_MANIFOLD_MODEL
