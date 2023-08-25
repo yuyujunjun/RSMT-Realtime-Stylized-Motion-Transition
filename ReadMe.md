@@ -140,4 +140,4 @@
 
   ## Home Page
 
-  [https://yuyujunjun.github.io/publications/2023-08-06RSMT/](https://yuyujunjun.github.io/publications/Siggraph2023_RSMT/)https://yuyujunjun.github.io/publications/Siggraph2023_RSMT/
+  [https://yuyujunjun.github.io/publications/2023-08-06RSMT/](https://yuyujunjun.github.io/publications/Siggraph2023_RSMT/)
