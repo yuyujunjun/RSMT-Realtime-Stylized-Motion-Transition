@@ -127,7 +127,7 @@
   After training all other components, train the phase predictor with the following command:
 
   ```bash
-  python train_transitionNet.py --predict_phase --pretrained --version YOUR_VERSION --epoch YOUR_EPOCH
+  python train_transitionNet.py --moe_model YOUR_MANIFOLD_MODEL --predict_phase --pretrained --version YOUR_VERSION --epoch YOUR_EPOCH
   ```
 
   ### Citation
@@ -140,4 +140,4 @@
 
   ## Home Page
 
-  https://yuyujunjun.github.io/publications/2023-08-06RSMT/
+  [https://yuyujunjun.github.io/publications/2023-08-06RSMT/](https://yuyujunjun.github.io/publications/Siggraph2023_RSMT/)https://yuyujunjun.github.io/publications/Siggraph2023_RSMT/
