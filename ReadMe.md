@@ -44,9 +44,9 @@
 
   This will plot two figures: 
 
-  ![phase](./ReadMe.assets/phase.png) 
+  ![phase](./RSMT-Realtime-Stylized-Motion-Transition/ReadMe.assets/phase.png) 
 
-  ![SAFB](./ReadMe.assets/SAFB.png)
+  ![SAFB](./RSMT-Realtime-Stylized-Motion-Transition/ReadMe.assets/SAFB.png)
 
   ## Generate Phase Vectors for the Dataset
 
